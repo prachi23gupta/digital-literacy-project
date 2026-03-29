@@ -1,23 +1,86 @@
-#Task 3 – Coding & Collaboration Platforms
+# 🎓 Digital Literacy Project
 
-Coding Practice Platform Used: HackerRank
-I completed a beginner-level challenge to understand basic programming concepts and problem-solving skills.
+## 👤 Name: Prachi Gupta
+## 🆔 Reg No: 25BCE11084  
+## 🎓 Branch: CSE core  
+## 📅 Course: Digital Literacy  
 
-Coding Challenge Screenshot:
-task-3-platforms/coding-screenshot.png
+---
 
-Google Form (Digital Literacy Awareness Quiz):
-https://docs.google.com/forms/d/e/1FAIpQLScQ2QjKQqyowj4PWHLkFbyzDIpbz90GxPonP4s9y3LhUch0WQ/viewform?usp=header
+## 📌 📖 Project Overview
+This project was completed as part of the Digital Literacy course to help understand the importance of digital tools, online communication, collaboration platforms, and cyber safety. The project consists of five tasks covering infographic creation, digital portfolio building, coding platforms, professional communication, and cybercrime awareness.
 
-Google Sheets (Responses):
-https://docs.google.com/spreadsheets/d/1fSi2xEy-jLX6FyG6f1TINdzC6GGly4MH2HBWl6zUHvo/edit
+---
 
-Form Screenshot:
-task-3-platforms/form.png
+## 📌 Task 1 – Digital Literacy Infographic
+- Created an infographic using Canva  
+- Covered topics like digital literacy, safe internet practices, and professional presence  
+- Files stored in: `task-1-presentation/`
 
-Sheet Screenshot:
-task-3-platforms/sheet.png
+---
 
-Reflection
+## 📌 Task 2 – Digital Portfolio
+- Created profiles on GitHub, LinkedIn, and Kaggle  
+- Updated education details and built online presence  
+- Files stored in: `task-2-portfolio/`
 
-This task helped me explore both coding practice platforms and cloud-based collaboration tools. By using HackerRank, I improved my understanding of basic coding and problem-solving techniques. Creating a Google Form helped me understand how quizzes and data collection can be managed digitally. Linking the form to Google Sheets allowed automatic response collection and organization of data. These tools are useful in academics for practice, assessments, teamwork, and collaboration, making learning more interactive and efficient.
+---
+
+## 📌 Task 3 – Coding & Collaboration Platforms
+- Completed a beginner coding challenge on HackerRank  
+- Created a Google Form with 5 questions for digital literacy awareness  
+- Form responses linked to Google Sheets  
+
+🔗 Google Form:  
+https://docs.google.com/forms/d/e/1FAIpQLScQ2QjKQqyowj4PWHLkFbyzDIpbz90GxPonP4s9y3LhUch0WQ/viewform?usp=header  
+
+🔗 Google Sheets:  
+https://docs.google.com/spreadsheets/d/1fSi2xEy-jLX6FyG6f1TINdzC6GGly4MH2HBWl6zUHvo/edit  
+
+- Files stored in: `task-3-platforms/`
+
+---
+
+## 📌 Task 4 – Email Etiquette & Social Media Guidelines
+- Wrote professional emails:
+  - Request for assignment extension  
+  - Internship application email  
+- Created a social media do’s and don’ts checklist  
+- Files stored in: `task-4-email-etiquette/`
+
+---
+
+## 📌 Task 5 – Cybercrime Awareness
+- Wrote a case study on phishing  
+- Created a cybercrime prevention checklist  
+- Files stored in: `task-5-cybercrime/`
+
+---
+
+## 📎 Report
+- Full project report available in: `/report/Project_Report.pdf` (or .docx)
+
+---
+
+## 🧠 Key Learnings
+- Importance of maintaining a professional digital presence  
+- Practical use of collaboration tools like Google Forms and Sheets  
+- Basics of coding platforms for practice  
+- Awareness about cyber threats and online safety  
+- Importance of clear and professional communication online  
+
+---
+
+## 🔗 Repository Link
+(Add your GitHub repository link here)
+
+---
+
+## 📚 References
+- Canva  
+- GitHub  
+- LinkedIn  
+- HackerRank  
+- Google Forms  
+- Google Sheets  
+- Cybercrime Portal: https://cybercrime.gov.in
