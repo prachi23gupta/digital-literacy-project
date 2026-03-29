@@ -1,3 +1,5 @@
+This repository contains all tasks completed as part of the Digital Literacy course project.
+
 # 🎓 Digital Literacy Project
 
 ## 👤 Name: Prachi Gupta
@@ -26,10 +28,12 @@ This project was completed as part of the Digital Literacy course to help unders
 
 ---
 
-## 📌 Task 3 – Coding & Collaboration Platforms
+📌 Task 3 – Coding & Collaboration Platforms
+
 - Completed a beginner coding challenge on HackerRank  
 - Created a Google Form with 5 questions for digital literacy awareness  
-- Form responses linked to Google Sheets  
+- Form responses linked to Google Sheets
+-  
 
 🔗 Google Form:  
 https://docs.google.com/forms/d/e/1FAIpQLScQ2QjKQqyowj4PWHLkFbyzDIpbz90GxPonP4s9y3LhUch0WQ/viewform?usp=header  
@@ -37,16 +41,19 @@ https://docs.google.com/forms/d/e/1FAIpQLScQ2QjKQqyowj4PWHLkFbyzDIpbz90GxPonP4s9
 🔗 Google Sheets:  
 https://docs.google.com/spreadsheets/d/1fSi2xEy-jLX6FyG6f1TINdzC6GGly4MH2HBWl6zUHvo/edit  
 
-- Files stored in: `task-3-platforms/`
+- Files stored in: task-3-platforms/
 
 ---
 
-## 📌 Task 4 – Email Etiquette & Social Media Guidelines
-- Wrote professional emails:
-  - Request for assignment extension  
-  - Internship application email  
-- Created a social media do’s and don’ts checklist  
-- Files stored in: `task-4-email-etiquette/`
+📌 Task 4 – Email Etiquette & Social Media Guidelines
+
+Wrote professional emails:
+- Request for assignment extension  
+- Internship application email  
+
+Created a social media do’s and don’ts checklist  
+
+Files stored in: task-4-email-etiquette/
 
 ---
 
@@ -72,15 +79,17 @@ https://docs.google.com/spreadsheets/d/1fSi2xEy-jLX6FyG6f1TINdzC6GGly4MH2HBWl6zU
 ---
 
 ## 🔗 Repository Link
-(Add your GitHub repository link here)
+https://github.com/prachi23gupta/prachi23gupta
 
 ---
 
-## 📚 References
+📚 References
+
 - Canva  
 - GitHub  
 - LinkedIn  
+- Kaggle  
 - HackerRank  
 - Google Forms  
 - Google Sheets  
-- Cybercrime Portal: https://cybercrime.gov.in
+- Cybercrime Portal: https://cybercrime.gov.in  
