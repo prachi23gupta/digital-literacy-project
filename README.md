@@ -41,7 +41,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScQ2QjKQqyowj4PWHLkFbyzDIpbz90GxPonP4s9
 🔗 Google Sheets:  
 https://docs.google.com/spreadsheets/d/1fSi2xEy-jLX6FyG6f1TINdzC6GGly4MH2HBWl6zUHvo/edit  
 
-- Files stored in: task-3-platforms/
+- Files stored in: `task-3-platforms/`
 
 ---
 
@@ -65,7 +65,7 @@ Files stored in: task-4-email-etiquette/
 ---
 
 ## 📎 Report
-- Full project report available in: `/report/Project_Report.pdf` (or .docx)
+- Full project report available in: `Project_Report.pdf`
 
 ---
 
